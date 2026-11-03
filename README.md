@@ -16,38 +16,30 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">
-I'm a Robotics Engineering student building intelligent machines where mechanical design,<br/>
-electronics, control engineering and software meet. My work spans ROS 2 robotics, digital twins,<br/>
-PLC-based industrial automation, embedded systems and robot simulation.
-</p>
+<table align="center">
+<tr>
+<td width="58%" valign="middle">
 
-<div align="center">
+I'm a **Robotics Engineering student** building intelligent machines where mechanical design, electronics, control engineering and software meet.
 
-<table>
-<tr>
-<td align="left"><b>Focus</b></td>
-<td align="left">Robotics &nbsp;•&nbsp; Industrial Automation &nbsp;•&nbsp; Embedded Systems</td>
-</tr>
-<tr>
-<td align="left"><b>Workflow</b></td>
-<td align="left">Model → Simulate → Control → Integrate → Test</td>
-</tr>
-<tr>
-<td align="left"><b>Interests</b></td>
-<td align="left">Robot Intelligence &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Autonomous Systems</td>
-</tr>
-<tr>
-<td align="left"><b>Currently Building</b></td>
-<td align="left">12-DOF Quadruped &nbsp;•&nbsp; SCARA Digital Twin</td>
-</tr>
-<tr>
-<td align="left"><b>Open To</b></td>
-<td align="left">Internships &nbsp;•&nbsp; Research Collaborations &nbsp;•&nbsp; Automation Projects</td>
+My work spans ROS 2 robotics, digital twins, PLC-based industrial automation, embedded systems and robot simulation.
+
+<br/>
+
+🎯 **Focus:** Robotics • Industrial Automation • Embedded Systems<br/>
+🔁 **Workflow:** Model → Simulate → Control → Integrate → Test<br/>
+🧠 **Interests:** Robot Intelligence • Computer Vision • Autonomous Systems<br/>
+🚧 **Building:** 12-DOF Quadruped • SCARA Digital Twin<br/>
+🤝 **Open to:** Internships • Research Collaborations • Automation Projects
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="Robotics engineer at work"/>
+
+</td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
